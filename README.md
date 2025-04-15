@@ -1,31 +1,53 @@
-# PROJECTNAME
+# NIST Cybersecurity Framework Write up - HIPPA
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The project focused on applying the NIST Cybersecurity Framework to enhance the healthcare organization’s ability to identify, respond to, and recover from cyber threats. Emphasis was placed on real-world breach scenarios, leveraging tools like SIEM, endpoint protection, and staff training to improve incident response, resilience, and data protection.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Understanding of how to apply cybersecurity best practices using the NIST Cybersecurity Framework
+- Experience responding to and managing simulated data breaches in a healthcare setting
+- Ability to identify risks and help protect sensitive patient data
+- Improved communication and coordination during high-pressure security events
+- Knowledge of how to recover systems and restore operations after an incident
+- Familiarity with compliance requirements like HIPAA and why they matter in cybersecurity
+- Strengthened attention to detail, problem-solving, and documentation skills
+
+
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Splunk – for log analysis, threat detection, and incident monitoring
+- IBM QRadar – as a SIEM tool to centralize and analyze security data
+- SentinelOne – for endpoint protection and threat response
+- Proofpoint – to detect and prevent phishing and email-based attacks
+- Windows Event Viewer – to review local system and security logs
+- Security baselines / hardening guides – to strengthen system configurations
+- Internal response plans and runbooks – for structured incident response
+- Backup and recovery tools – to restore affected systems securely
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+1. Contain
+Stop the breach from spreading
+2. Assess
+Identify what data/systems are affected
+3. Preserve
+Secure evidence for investigation
+4. Notify
+Alert internal teams and stakeholders
+5. Disclose
+Notify patients or regulators (if required)
+6.Remediate
+Patch systems, reset credentials, restore services
+7. Document
+Create a full incident report
+8. Improve
+Learn from it and harden systems
 
-Example below.
 
-*Ref 1: Network Diagram*
+
+Complete Write provided in Google Doc link below 
+
+(https://docs.google.com/document/d/14IAnd9-ViFwGGyPoFfB0bNFBCy_V6jFTdeMqe7sP73A/edit?usp=sharing)
